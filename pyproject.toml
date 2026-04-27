@@ -44,6 +44,7 @@ dependencies = [
 mcp = [
     "mcp[cli]>=1.26.0",
     "fastmcp>=2.14.5",
+]  
 asqav = [
     "asqav>=0.2.21",
 ]
