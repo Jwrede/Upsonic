@@ -44,6 +44,8 @@ dependencies = [
 mcp = [
     "mcp[cli]>=1.26.0",
     "fastmcp>=2.14.5",
+asqav = [
+    "asqav>=0.2.21",
 ]
 chroma = [
     "chromadb>=1.0.20; python_version < '3.14'",
